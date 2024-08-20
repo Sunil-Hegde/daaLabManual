@@ -1,4 +1,4 @@
-package program4;
+package program04;
 import java.util.*;
 
 public class BFSDigraph {

@@ -1,4 +1,4 @@
-package program6;
+package program06;
 import java.util.Scanner;
 
 public class WarshallsAlgorithm {

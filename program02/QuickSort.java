@@ -1,4 +1,4 @@
-package program2;
+package program02;
 import java.util.Random;
 
 public class QuickSort {

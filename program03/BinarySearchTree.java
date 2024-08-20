@@ -1,4 +1,4 @@
-package program3;
+package program03;
 
 class BinarySearchTree {
     // Node class representing a node in the BST
