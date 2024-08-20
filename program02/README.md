@@ -89,5 +89,7 @@ Size: 500000, Time taken: 50061383 ns
 
 ### Graph
 
+![Graph Image](./Quick%20Sort.png)
+
 #### Time complexity for Quick Sort is O(n*logn).
 

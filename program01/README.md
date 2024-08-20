@@ -119,5 +119,7 @@ Size: 500000, Time taken: 81148003 ns
 
 ### Graph
 
+![Graph Image](./Merge%20Sort.png)
+
 #### Time complexity for Merge Sort is O(n*logn).
 
